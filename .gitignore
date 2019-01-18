@@ -1,0 +1,15 @@
+
+#remove IDE files
+.idea/
+
+# remove projects of others
+vendor/
+
+# composer lock
+composer.lock
+
+
+# remove classes for testing namespaces
+src/Img2text/Te.php
+tests/Img2text/TeTest.php
+

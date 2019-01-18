@@ -1,0 +1,21 @@
+{
+    "name": "HausO/Img2text",
+    "description": "Draw image by chars",
+    "keywords": ["image, text, art"],
+    "authors": [
+        {
+            "name": "Tomas 'HausO' Domanik",
+            "email": "tdomanik@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "HausO\\Img2text\\": ["src/","tests/"]
+        }
+    }
+}
